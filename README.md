@@ -1,2 +1,2 @@
-adminTemplate
-=============
+webtest_template
+================
